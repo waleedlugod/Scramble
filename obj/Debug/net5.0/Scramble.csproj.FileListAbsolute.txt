@@ -1,0 +1,16 @@
+C:\Users\lugod\source\repos\Scramble\obj\Debug\net5.0\Scramble.csprojAssemblyReference.cache
+C:\Users\lugod\source\repos\Scramble\obj\Debug\net5.0\Scramble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugod\source\repos\Scramble\obj\Debug\net5.0\Scramble.AssemblyInfoInputs.cache
+C:\Users\lugod\source\repos\Scramble\obj\Debug\net5.0\Scramble.AssemblyInfo.cs
+C:\Users\lugod\source\repos\Scramble\obj\Debug\net5.0\Scramble.csproj.CoreCompileInputs.cache
+C:\Users\lugod\source\repos\Scramble\bin\Debug\net5.0\Scramble.exe
+C:\Users\lugod\source\repos\Scramble\bin\Debug\net5.0\Scramble.deps.json
+C:\Users\lugod\source\repos\Scramble\bin\Debug\net5.0\Scramble.runtimeconfig.json
+C:\Users\lugod\source\repos\Scramble\bin\Debug\net5.0\Scramble.runtimeconfig.dev.json
+C:\Users\lugod\source\repos\Scramble\bin\Debug\net5.0\Scramble.dll
+C:\Users\lugod\source\repos\Scramble\bin\Debug\net5.0\ref\Scramble.dll
+C:\Users\lugod\source\repos\Scramble\bin\Debug\net5.0\Scramble.pdb
+C:\Users\lugod\source\repos\Scramble\obj\Debug\net5.0\Scramble.dll
+C:\Users\lugod\source\repos\Scramble\obj\Debug\net5.0\ref\Scramble.dll
+C:\Users\lugod\source\repos\Scramble\obj\Debug\net5.0\Scramble.pdb
+C:\Users\lugod\source\repos\Scramble\obj\Debug\net5.0\Scramble.genruntimeconfig.cache
